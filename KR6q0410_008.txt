@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:51:29.169785
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:36
 #+TITLE: 入就瑞白禪師語錄
 #+PROPERTY: CBETA_ID J26nB188
 #+PROPERTY: ID KR6q0410
@@ -13,7 +13,7 @@
  入就瑞白禪師語錄卷之八¶
 明住天台護國寺嗣法門人寂蘊編¶
 
-頌古¶
+* 頌古¶
 
 「世尊陞座。」¶
 
